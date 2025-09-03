@@ -1,0 +1,38 @@
+Kali Linux 2025 UTM (Apple Silicon) 
+A preconfigured Kali Linux 2025 virtual machine template for UTM on Macs equipped with Apple Silicon (M1/M2/M3/M4).
+Updated with the latest official signing keys and repositories from kali.org on July 29, 2025.
+
+Kali Screenshots
+
+
+Features:
+1.Ready-to-use Kali 2025 virtual machine
+2.Cleaned logs and reset state (for a fresh start)
+3.Fully updated (apt update && apt full-upgrade)
+4.New Kali signing keys (July 2025)
+5.Lightweight, stable, and fast for Apple Silicon
+6.100% compatible with UTM
+
+Requirements:
+1.Mac with Apple Silicon (M1/M2/M3/M4)
+2.UTM installed
+3.At least 4 GB of RAM
+4.15-20 GB of available disk space
+
+Installation:
+1.Download the template  (https://pan.baidu.com/s/1mPdCmTqbyrSFDOZm602-wA code: ehfb) 
+2.Open the UTM app
+3.Click "Open File"
+4.Select the .utm file
+5.Start the virtual machine!
+
+Login Credentials:
+Username: kali
+Password: kali
+
+Maintenance & Updates
+This image is actively maintained with:
+1.Latest Kali packages
+2.Updated signing keys (including 2025 keys)
+3.Regular security patches
+4.Optimized for UTM on macOS
